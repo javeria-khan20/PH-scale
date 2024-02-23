@@ -1,0 +1,142 @@
+@font-face {
+    font-family: KodeMono;
+    src: url("./assets/KodeMono-VariableFont_wght.ttf");
+}
+/* Universal selector */
+*{
+    background-color: rgb(181, 184, 183);
+    margin: 0px 10px 0px 10px;
+    font-family: KodeMono;
+    min-width: 280px;
+}
+/* Id selector */
+#main{
+    margin-top: 10px;
+    padding: 20px;
+    width: 95%;
+    background-color: rgb(225, 225, 225);
+    font-size: 22px;
+    font-weight: bolder;
+}
+/* Class selector */
+.blue1{
+    background-color: rgb(5, 143, 223);
+    width: 97.5%;
+    height: 22px;
+    margin-top: 12px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.blue2{
+    background-color: rgb(3, 157, 246);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.blue3{
+    background-color: rgb(28, 169, 251);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.blue4{
+    background-color: rgb(45, 177, 254);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.blue5{
+    background-color: rgb(67, 186, 255);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.blue6{
+    background-color: rgb(107, 199, 252);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.blue7{
+    background-color: rgb(131, 209, 254);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.green{
+    background-color: rgb(24, 192, 127);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.pink1{
+    background-color: rgb(249, 167, 204);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.pink2{
+    background-color: rgb(254, 145, 194);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.pink3{
+    background-color: rgb(255, 123, 182);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.pink4{
+    background-color: rgb(251, 110, 174);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.pink5{
+    background-color: rgb(252, 95, 166);
+    width: 97.5%;
+    height: 22px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.pink6{
+    background-color: rgb(253, 71, 153);
+    width: 97.5%;
+    height: 25px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
+.pink7{
+    background-color: rgb(254, 41, 137);
+    width: 97.5%;
+    height: 25px;
+    padding: 10px 0px 0px 10px;
+    font-size: 18px;
+    color: aliceblue;
+}
